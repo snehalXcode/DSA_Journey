@@ -1,6 +1,6 @@
-// floor - go down ceil - go up
-// // floor code
-// // int floorValue(vector<int>& nums, int target) {
+// floor = go down ceil = go up 
+// floor code
+// int floorValue(vector<int>& nums, int target) {
 
 //     int low = 0;
 //     int high = nums.size() - 1;
