@@ -56,3 +56,4 @@ int main(){
 
     return 0;
 }
+// count = last - first + 1;
